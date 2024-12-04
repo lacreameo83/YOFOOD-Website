@@ -25,7 +25,7 @@ function Page() {
           <div className="flex flex-col justify-between  w-[335.27px]  h-[247px] sm:h-[268px] sm:max-w-[470px] text-center sm:text-left">
             <div className="w-[335.27px] h-[82px]  sm:w-[470.37px] sm:h-[112px]  ">
               <p className="text-[32px] sm:text-[50px] text-start SerifTextfonts leading-[36px] sm:leading-[56px] font-[400]">
-                Fried Rice With Meat and Vegetables
+                Fried Rice With Meat and Vegetables.
               </p>
             </div>
             <div className="w-[335.27px] h-[78px] sm:w-[470.37px] sm:h-[60px] ">
